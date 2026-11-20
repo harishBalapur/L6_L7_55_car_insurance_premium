@@ -2,7 +2,7 @@
 
 Lab 7: Fuzzing for Input Validation Bugs
 
-## About
+## About.
 
 A small Python module that reads car insurance premium details typed in by a user: registration numbers, past claim amounts and dates of birth. It assumes every input is well formed.
 
